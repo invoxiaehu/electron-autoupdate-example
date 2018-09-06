@@ -1,6 +1,6 @@
 {
     "name": "electronautoupdate_ehu",
-    "version": "0.1.20",
+    "version": "0.1.31",
     "author": "ehu",
     "homepage": "./",
     "description": "An example of an autoupdating electron app",
